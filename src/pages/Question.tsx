@@ -64,7 +64,7 @@ const Question = () => {
       <main className="d-flex justify-content-center">
         <section>
           <h1 className="text-center" style={{ color: pink }}>
-            Bạn rảnh khi nào?
+            Em yêu rảnh khi nào?
           </h1>
           <h2 className="text-center" style={{ color: pink }}>
             Bất cứ lúc nào, Anh sẽ đến đón Em ngay! ❤️
