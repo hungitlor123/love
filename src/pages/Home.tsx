@@ -35,9 +35,9 @@ const Home = () => {
   const getMessage = () => {
     switch (imageIndex) {
       case 0:
-        return "Thật sao? Bạn đang làm tui đau lòng :((";
+        return "Thật sao? Em đang làm anh đau lòng :((";
       case 1:
-        return "Thôi mà, hãy cho tui cơ hội diii!";
+        return "Thôi mà, hãy cho anh cơ hội diii!";
       case 2:
         return "Đi mà, năn nỉ áaaaaaaaaa !";
       default:
@@ -110,7 +110,7 @@ const Home = () => {
         <h1 className="text-center" style={{ color: pink }}>
           {buttonYes
             ? "Yehh!!! Nào hãy cùng chọn tiếp nào"
-            : "Bạn có muốn đi đâu đó hẹn hò với tui không...?"}
+            : "Em có muốn đi đâu đó hẹn hò với anh không...?"}
         </h1>
         <section className="d-flex justify-content-center pt-5">
           <div className="d-flex justify-content-between gap-5">

@@ -41,9 +41,9 @@ const Date = () => {
   const getTitle = () => {
     switch (selectedCategory) {
       case "food":
-        return "Bạn muốn tui đưa đi ăn gì nào?";
+        return "Bạn muốn Anh đưa đi ăn gì nào?";
       case "movie":
-        return "Bạn muốn tui đưa đi coi bộ phim nào khum ?";
+        return "Bạn muốn Anh đưa đi coi bộ phim nào khum ?";
       default:
     }
   };
