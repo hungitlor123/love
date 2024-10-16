@@ -110,7 +110,7 @@ const Home = () => {
         <h1 className="text-center" style={{ color: pink }}>
           {buttonYes
             ? "Yehh!!! Nào hãy cùng chọn tiếp nào"
-            : "Em có muốn đi đâu đó hẹn hò với anh không...?"}
+            : "Chang Thị có muốn đi đâu đó hẹn hò với anh không...?"}
         </h1>
         <section className="d-flex justify-content-center pt-5">
           <div className="d-flex justify-content-between gap-5">
