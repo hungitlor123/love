@@ -46,7 +46,7 @@ const Thankyou = () => {
           Hẹn gặp lại!
         </h4>
         <h4 style={{ fontSize: "3rem" }} className="thankyou-text">
-          Tôi rất hạnh phúc vì có cơ hội được tìm hiểu cậu❤️{" "}
+          Anh rất hạnh phúc vì có cơ hội được dẫn em đi chơii❤️{" "}
         </h4>
         {dateTime.date && dateTime.time && (
           <h1 className="thankyou-text">

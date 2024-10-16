@@ -155,7 +155,7 @@ const Date = () => {
                 }}
               />
               <h1 style={{ color: pink }} className="py-3">
-                Bạn cảm thấy sao về điều này! ❤️
+                Em cảm thấy sao về điều này! ❤️
               </h1>
             </div>
             <HeartSlider></HeartSlider>
